@@ -1,0 +1,2 @@
+b68363303a221e2d26c829827b69d5bac4c1a212d593733eac0a3e355f0c2d01  EnglishLens-0.1.0-test.apk
+0ffc35b3f711cadcf4105db38aa06d18d5c9bd8a6f46fe70b3f1ffed1d31fc74  EnglishLens-source.zip
